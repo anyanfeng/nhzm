@@ -1,0 +1,98 @@
+body{
+    margin:0;
+    font-family:"微软雅黑";
+}
+h2,h2,h3,h4,h5,h6,ul,li,a{
+	margin:0;
+	padding:0;
+	list-style: none;
+}
+.header{
+	 width:100%;
+	 height:135px;
+	 background: url(../img/1.jpg) center;
+}
+.logo{
+	width:200px;
+	height:150px;
+	margin:0 auto;
+}
+.banner{
+	width: 100%;
+	height: 500px;
+}
+.banner-list{
+	width:1920px;
+	height: 500px;
+	display: none;
+}
+.banner-list img{
+	width:1920px;
+	height:500px;
+}
+.b-anniu{
+	height:10px;
+	margin:0 auto;
+}
+.anniu-a{
+	width:8px;
+	height:8px;
+	border:1px solid #757575;
+	bottom:20px;
+	right:300px;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+.jianjie{
+	width:100%;
+	height:550px;
+	background: url(../img/dybj.jpg) center;
+}
+.jj{
+	width:1019px;
+	height:46px;
+	margin:0 auto;
+	overflow:hidden;
+	background: url(../img/bj_d1.png) center;
+}
+.jj1{
+	width:1019px;
+	height:430px;
+	margin:0 auto;
+	background: url(../img/2.png) center;
+}
+.jj2{
+	width:1019px;
+	height:67px;
+	margin:0 auto;
+	background: url(../img/bj_d3.png) center;
+}
+.footer{
+	width:100%;
+	height:7px;
+	margin:0 auto;
+	font-size: 0;
+	background: url(../img/db.jpg) center;
+}
+.qyjj{
+	width:929px;
+	height:100px;
+	margin:0 auto;
+}
+.spanleft{
+	width:400px;
+	height:100px;
+	float:left;
+}
+.zt{
+	padding: 130px 0 10px;
+	line-height: 24px;
+	color:#838383;
+	font-family: "宋体";
+	font-size: 18px;
+}
